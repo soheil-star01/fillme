@@ -23,7 +23,7 @@ by passing it to FillMe and it will do the rest of job!(check next steps)
 
 then, you can use FillMe in two ways:
 
-1- using in CLI and by passing two mendatory arguments and one optional argument:
+1- using in CLI and by passing one mandatory argument and two optional arguments:
 ```shell
 python -m FillMe --db-url your_db_url_here --schema your_schema_name_here --openai-token your_openai_token_here
 ```
